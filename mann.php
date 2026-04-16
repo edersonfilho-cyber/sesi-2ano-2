@@ -2,7 +2,11 @@
 
 
 
-$dev = "ola mundo";
+$dev = "ola mundo"
 
-echo $dev;
+$nome =  "eu sou o ederson"
+
+
+
+echo $dev . " ". $nome;
 ?>
